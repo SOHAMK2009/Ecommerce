@@ -47,4 +47,4 @@ npm start
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+![first screenshot](https://github.com/SOHAMK2009/Ecommerce/blob/71c4085008e04deba89523a4bf6719384989ff3e/Screenshot%202026-06-08%20015110.png)
